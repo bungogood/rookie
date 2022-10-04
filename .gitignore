@@ -1,0 +1,8 @@
+.vscode/
+
+node_modules/
+build/
+
+*config.json
+!template.config.json
+!tsconfig.json
